@@ -5,7 +5,7 @@ into a Django app for use with Django staticfiles.
 import subprocess
 import sys
 
-DEFAULT_VERSION = "2.0.0"
+DEFAULT_VERSION = "3.2.1"
 
 
 def cp(src):
